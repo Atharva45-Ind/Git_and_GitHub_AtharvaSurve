@@ -1,0 +1,20 @@
+{
+    "project": "Flask To-Do API",
+    "items": [
+        {
+            "id": 1,
+            "name": "Learn Git",
+            "description": "Practice Git branching and merging"
+        },
+        {
+            "id": 2,
+            "name": "Learn Flask",
+            "description": "Build a Flask application"
+        },
+        {
+            "id": 3,
+            "name": "Learn GitHub",
+            "description": "Practice pushing and merging branches"
+        }
+    ]
+}
